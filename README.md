@@ -1,5 +1,5 @@
 # Project Feasibility
-User creates a "project" (a directed, weighted graph) that will be analyzed to determine if the project is feasible, how long the project will take, and what activities are “critical” (activitis that will delay entire project if not completed int time).
+User creates a "project" (a directed, weighted graph) that will be analyzed to determine if the project is feasible, how long the project will take, and what activities are “critical” (activities that will delay entire project if not completed in time).
 
 # Input
 User enters the number of "stages" (nodes in their graph), "current stage" for which info is currently being entered, number of stages reachable from current stage, stage reachable from current stage, and the cost between current and adjacent stage.
