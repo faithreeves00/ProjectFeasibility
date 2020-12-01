@@ -9,7 +9,9 @@ Displays whether or not project is feasible (project is feasible if the number o
 
 # How Stage and Activity Times are Calculated
 Early Stage Time: the max value out of each pre-req stage plus the cost of its connecting activity
+
 Late Stage Time: the min value out of each pre-req stage plus the cost of the connecting activity
 
 Early Activity Time: the EST of the activity's starting stage
+
 Late Activity Time: the LST of the activity's ending stage minus the activity duration
